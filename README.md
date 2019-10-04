@@ -1,1 +1,1 @@
-# google-homepage
+This is going to be a google-homepage clone built from inspecting elements and copying and maybe modifying them how I'd like them.
